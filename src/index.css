@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+  --color-primary: #031968;
+  --color-secondary: #38bdf8;
+  --color-white: #ffffff;
+  --color-black: #000000;
+}
+
+h1,h2{
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+p,a,span,li,ul,ol,blockquote,input,textarea,button{
+  font-family: 'Poppins';
+}

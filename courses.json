@@ -1,0 +1,107 @@
+[
+  {
+    "id": "computer-literacy",
+    "title": "Computer Literacy",
+    "image": "/computer-literacy.jpg",
+    "description": "Build real confidence with essential computer skills that remove the fear of technology. You will learn how operating systems are organized, how to manage files and folders responsibly, and how to navigate the web safely and efficiently. We will practice productive workflows with browsers, search, email etiquette, and cloud storage. We also cover everyday tools such as documents, spreadsheets, slides, and simple media tasks so you can contribute in school, work, and personal projects with ease and clarity.",
+    "short_desc": "Essential computer skills",
+    "technologies": ["HTML", "CSS", "JavaScript", "Git", "GitHub", "Google Workspace", "MS Office"]
+  },
+  {
+    "id": "cbt-exam-training",
+    "title": "CBT Exam Training (JAMB,WAEC..etc)",
+    "image": "/cbt.jpg",
+    "description": "Master computer-based tests with the same discipline used by top scorers. We use realistic mocks that mirror JAMB, WAEC, and related exams, timed drills that build speed, and analytics that reveal weak spots. You will learn pattern recognition, educated guessing techniques, pacing strategies, and how to avoid common traps. We also cover digital literacy for exam systems, calm test-day routines, and after-action reviews so each attempt delivers measurable improvement and sustained confidence.",
+    "short_desc": "Timed CBT prep & strategy",
+    "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "GitHub"]
+  },
+  {
+    "id": "coding-programming",
+    "title": "Coding/Programming",
+    "image": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website_73903-164.jpg",
+    "description": "Learn core programming logic through structured problem solving, small daily challenges, and guided projects. We cover variables, control flow, functions, data structures, and debugging so you can reason about code instead of memorizing syntax. You will practice writing clean, readable solutions, testing your work, and refactoring to improve clarity. Expect regular code reviews, pair programming, and algorithmic thinking exercises that build confidence for interviews, automation, and real-world projects.",
+    "short_desc": "Foundational coding skills",
+    "technologies": ["Python", "Java", "Git", "GitHub", "VS Code", "JUnit", "PyTest"]
+  },
+  {
+    "id": "web-development",
+    "title": "Web Development",
+    "image": "https://img.freepik.com/free-vector/programmer-working-desk_23-2148277397.jpg",
+    "description": "Design and build responsive websites from concept to launch. You will learn semantic HTML, modern CSS layouts, and JavaScript fundamentals to craft fast, accessible pages. We integrate APIs, manage state, and handle forms and validation. You will ship components, apply performance and SEO basics, and deploy to production with version control best practices. By the end, you will own a portfolio-ready site and understand the full workflow from design handoff to live release.",
+    "short_desc": "Responsive web builds",
+    "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "React", "Git", "GitHub"]
+  },
+  {
+    "id": "front-end-development",
+    "title": "Front-End Development",
+    "image": "https://img.freepik.com/free-vector/website-development-landing-page-illustration_52683-18635.jpg",
+    "description": "Craft interactive UIs with modern tooling and a focus on user experience. We go deep into component-driven development, state management, API consumption, routing, and accessibility. You will learn testing strategies, performance budgets, and design system thinking to keep interfaces consistent and maintainable. We also cover collaboration habits with designers, code reviews, and Git workflows. Expect to ship polished, responsive interfaces that feel fast and intuitive on every device.",
+    "short_desc": "Interactive UI engineering",
+    "technologies": ["HTML", "CSS", "JavaScript", "React", "Git", "GitHub", "Figma", "Jest"]
+  },
+  {
+    "id": "backend-development",
+    "title": "Backend Development",
+    "image": "/backend.jpg",
+    "description": "Build robust APIs and services with production-ready discipline. You will learn REST design, routing, authentication, authorization, and error handling. We design relational models, write efficient queries, and practice migrations. You will add tests, logging, and observability, then containerize and deploy. Security, caching, and performance tuning are woven through every module. By graduation, you will be comfortable shipping and maintaining backends that other teams can rely on.",
+    "short_desc": "APIs and data models",
+    "technologies": ["Python", "Django", "Java", "SpringBoot", "Hibernate", "MySQL", "Git", "GitHub"]
+  },
+  {
+    "id": "ui-ux-design",
+    "title": "UI/UX Design",
+    "image": "/graphics.jpg",
+    "description": "Research, wireframe, and prototype digital products with a design system mindset. We cover user flows, information architecture, accessibility, and usability testing so your decisions are evidence-based. You will learn Figma for wireframes, high-fidelity comps, and clickable prototypes, plus component libraries for consistency. Handoff practices, annotations, and collaboration habits ensure developers can build what you envision. Expect critiques and iteration to sharpen craft.",
+    "short_desc": "Research to prototypes",
+    "technologies": ["Figma", "FigJam", "Design Systems", "Accessibility", "Prototyping"]
+  },
+  {
+    "id": "software-engineering",
+    "title": "Software Engineering",
+    "image": "/software.jpg",
+    "description": "Apply engineering principles across the full lifecycle of software delivery. We cover planning, estimation, architecture basics, and collaboration rituals used by healthy teams. You will write maintainable code, add tests at multiple layers, set up CI, and practice code reviews. We address refactoring, technical debt, observability, and release strategies. The goal is to help you think like an engineer who can ship, maintain, and improve systems over time.",
+    "short_desc": "Full SDLC practices",
+    "technologies": ["Java", "SpringBoot", "Python", "Django", "Git", "GitHub", "CI/CD", "Docker"]
+  },
+  {
+    "id": "data-analysis",
+    "title": "Data Analysis",
+    "image": "/da.jpg",
+    "description": "Explore, clean, and visualize data to answer real questions. We use Python notebooks to wrangle messy datasets, handle missing values, and shape data for analysis. You will apply descriptive statistics, build clear charts, and craft data stories that decision makers can trust. We emphasize documentation, reproducibility, and version control so your work is shareable. By the end, you can deliver dashboards and insights that drive action, not just charts.",
+    "short_desc": "Insights from data",
+    "technologies": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "GitHub", "Jupyter"]
+  },
+  {
+    "id": "data-science-ml",
+    "title": "Data Science & Machine Learning",
+    "image": "/ml.jpg",
+    "description": "Build end-to-end ML pipelines with disciplined experimentation. You will learn feature engineering, model selection, evaluation metrics, and how to avoid common pitfalls like leakage and overfitting. We cover regression, classification, and basic deployment patterns. Versioning data and models, documenting experiments, and presenting results clearly are core habits. Expect hands-on projects that turn messy data into working models ready for stakeholders and production.",
+    "short_desc": "Hands-on ML pipelines",
+    "technologies": ["Python", "Pandas", "NumPy", "ScikitLearn", "TensorFlow", "PyTorch", "GitHub"]
+  },
+  {
+    "id": "artificial-intelligence",
+    "title": "Artificial Intelligence",
+    "image": "/ai.jpg",
+    "description": "Implement AI concepts across NLP and computer vision fundamentals, experiment with pre-trained models, and understand responsible AI practices. We demystify embeddings, tokenization, image pipelines, and transfer learning. You will run small projects that generate text, classify images, or summarize content, emphasizing evaluation and safety. We discuss ethics, bias, and transparent communication so you can ship AI features thoughtfully and responsibly.",
+    "short_desc": "Applied AI concepts",
+    "technologies": ["Python", "TensorFlow", "PyTorch", "OpenAI API", "Hugging Face", "GitHub"]
+  },
+  {
+    "id": "cybersecurity-ethical-hacking",
+    "title": "Cybersecurity/ Ethical Hacking",
+    "image": "https://img.freepik.com/free-vector/cyber-security-concept_23-2148532225.jpg",
+    "description": "Learn security fundamentals and ethical hacking with a defender mindset. We cover core networking, the OWASP Top 10, and how to assess common vulnerabilities safely. You will practice reconnaissance, basic exploitation labs, and remediation techniques. Logging, monitoring, and secure configuration are emphasized, along with legal and ethical boundaries. By the end, you will know how to identify risks, communicate findings, and strengthen systems responsibly.",
+    "short_desc": "Security fundamentals",
+    "technologies": ["Linux", "Networking", "OWASP", "Burp Suite", "Wireshark", "GitHub"]
+  },
+  {
+    "id": "fullstack-development",
+    "title": "Fullstack Development",
+    "image": "https://img.freepik.com/free-vector/full-stack-developer-concept-illustration_114360-2170.jpg",
+    "description": "Ship end-to-end applications by combining modern frontends with reliable backends. You will build responsive interfaces, connect them to secure APIs, design data models, and add authentication and authorization. We cover testing, CI/CD, and deployment so you can release confidently. Logging, error handling, and performance tuning are part of every feature. The result is a fullstack toolkit that lets you design, build, and iterate production-ready products.",
+    "short_desc": "End-to-end shipping",
+    "technologies": ["React", "JavaScript", "Node.js", "Express", "Django", "MySQL", "Git", "GitHub", "Docker"]
+  }
+]
+
