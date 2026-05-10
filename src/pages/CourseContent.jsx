@@ -55,6 +55,20 @@ const CourseContent = () => {
           <div className="space-y-4">
             <h2 className="text-2xl font-bold text-[#001971]">What you'll learn</h2>
             <p className="text-base text-[#001971]/80">{course.description}</p>
+            <div className="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-3">
+              <div className="rounded-lg bg-[#f0f6ff] px-3 py-2 text-sm">
+                <div className="text-xs font-medium text-[#001971]/70">Duration</div>
+                <div className="mt-1 font-semibold text-[#001971]">{course.duration || 'TBA'}</div>
+              </div>
+              <div className="rounded-lg bg-[#f0f6ff] px-3 py-2 text-sm">
+                <div className="text-xs font-medium text-[#001971]/70">Price</div>
+                <div className="mt-1 font-semibold text-[#001971]">{course.price || 'Contact us'}</div>
+              </div>
+              <div className="rounded-lg bg-[#f0f6ff] px-3 py-2 text-sm">
+                <div className="text-xs font-medium text-[#001971]/70">Payment</div>
+                <div className="mt-1 font-semibold text-[#001971]">{course.mode_of_payment || 'Contact us'}</div>
+              </div>
+            </div>
             <div className="space-y-2">
               <h3 className="text-lg font-semibold text-[#001971]">Key tools & stack</h3>
               <div className="flex flex-wrap gap-2">
@@ -72,6 +86,7 @@ const CourseContent = () => {
 
           <div className="rounded-2xl border border-[#001971]/12 bg-white shadow-[0_12px_30px_rgba(0,25,113,0.12)] p-6 space-y-4">
             <h3 className="text-xl font-bold text-[#001971]">Register for this course</h3>
+            <div className="text-sm text-[#001971]/70">Price: <span className="font-semibold text-[#001971]">{course.price || 'Contact us'}</span></div>
             <p className="text-sm text-[#001971]/70">Share your details and we will reach out with the next steps.</p>
             <form className="space-y-4">
               <div className="space-y-2">

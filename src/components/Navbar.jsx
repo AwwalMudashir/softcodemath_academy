@@ -54,7 +54,7 @@ const Navbar = () => {
     <nav className={`fixed top-0 z-50 w-full border-b border-transparent pb-[-20px] transition-colors duration-300 ${navBgClasses} ${navIsColored ? 'shadow-md' : ''}`}>
       <div className="relative mx-auto flex max-w-6xl items-center md:px-0 px-4 justify-between">
         <div className="flex items-center">
-          <img src="/logo.png" alt="SoftCodeMath Academy logo" className="h-18 w-36 object-contain" />
+          <img src="/logo.png" onClick={()=>navigate('/')} alt="SoftCodeMath Academy logo" className="h-18 w-36 object-contain cursor-pointer" />
         </div>
 
         <ul className="hidden items-center gap-5 md:flex">

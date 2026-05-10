@@ -41,6 +41,11 @@ const CourseComp = () => {
             </div>
           ))}
         </div>
+        <div className="mt-6 w-full flex justify-center">
+          <div className="max-w-3xl w-full rounded-md bg-[#f0f6ff] px-4 py-3 text-center text-sm font-semibold text-[#001971]">
+            One on ONE Private classes are ₦150,00 per month
+          </div>
+        </div>
       </div>
     </section>
   )

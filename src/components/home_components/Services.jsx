@@ -59,15 +59,15 @@ const Services = () => {
           <div className="mt-8 flex flex-wrap gap-3">
             <p
               onClick={() => navigate('/about')}
-              className="inline-flex items-center justify-center rounded-full bg-[#001971] px-6 py-3 text-sm font-semibold text-white transition hover:bg-[#01124f]"
+              className="cursor-pointer inline-flex items-center justify-center rounded-full bg-[#001971] px-6 py-3 text-sm font-semibold text-white transition hover:bg-[#01124f]"
             >
               Learn more
             </p>
             <p
               onClick={() => navigate('/contact')}
-              className="inline-flex items-center justify-center rounded-full border border-[#001971]/30 px-6 py-3 text-sm font-semibold text-[#001971] transition hover:bg-[#38bdf8]/10"
+              className="cursor-pointer inline-flex items-center justify-center rounded-full border border-[#001971]/30 px-6 py-3 text-sm font-semibold text-[#001971] transition hover:bg-[#38bdf8]/10"
             >
-              View schedules
+              Get Our Schedules
             </p>
           </div>
         </div>

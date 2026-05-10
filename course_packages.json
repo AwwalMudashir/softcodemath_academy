@@ -1,0 +1,47 @@
+[
+    {
+        "id": "web-dev-python-data",
+        "title": "Web Development with Python and Data Science",
+        "image": "/software.jpg",
+        "description": "A full-track combining modern frontend engineering with backend Python APIs and applied data workflows. Build portfolio-ready web apps, connect them to data pipelines, and analyze results with practical projects.",
+        "short_desc": "Full-stack web + data track",
+        "technologies": ["Frontend", "Backend (Python)", "Data Science"],
+        "duration": "9 months",
+        "price": "₦900,000",
+        "mode_of_payment": "7 Times Payment"
+    },
+    {
+        "id": "software-engineering-ai-ml",
+        "title": "Software Engineering and AI/ML",
+        "image": "/software_ai.jpg",
+        "description": "Learn software engineering foundations while applying AI/ML techniques to real products. This package covers system design, testing, and ML model integration for production-ready features.",
+        "short_desc": "Software engineering + AI/ML",
+        "technologies": ["Frontend", "Backend (Python)", "AI/ML"],
+        "duration": "1 Year",
+        "price":"₦1,200,000",
+        "mode_of_payment":"8 Times Payment"
+    },
+    {
+        "id": "advanced-software-engineering-ai-ml",
+        "title": "Advanced Software Engineering and AI/ML",
+        "image": "/advanced_ai.jpg",
+        "description": "An advanced program blending large-scale system design with state-of-the-art AI/ML. Includes multi-language backends, model deployment, and data engineering best practices.",
+        "short_desc": "Advanced engineering + ML",
+        "technologies": ["Frontend", "Backend (Python)","Backend (Java)", "AI/ML", "Data Science"],
+        "duration": "1 Year and 2 months",
+        "price":"₦1,500,000",
+        "mode_of_payment":"10 Times Payment"
+    }
+    ,
+    {
+        "id": "siwes-nysc-support",
+        "title": "SIWES & NYSC Internship Support",
+        "image": "/internship.jpg",
+        "description": "SoftCodeMath Academy runs a structured SIWES and NYSC support program that helps university students and corps members secure meaningful placements and gain workplace skills. For SIWES (2nd/3rd year industrial training) we provide pre-placement preparation (CV & portfolio reviews, technical briefings, interview simulations), placement matching with partner companies, project templates aligned to university learning outcomes, and ongoing mentorship with weekly check-ins and assessment reports. For NYSC participants we offer supervised community-tech projects, short-term placements, micro-contracts, and certification pathways to help graduates build marketable portfolios during their service year. The program is flexible across technologies—students learn tools and stacks relevant to their placement and career goals, with emphasis on practical deliverables, professional communication, and employability.",
+        "short_desc": "Placement, mentorship & NYSC service programs",
+        "technologies": ["Flexible (supports any technology — tailored to student and host needs)"],
+        "duration": "Varies (3–6 months typical)",
+        "price":"Contact us",
+        "mode_of_payment":"Varies"
+    }
+]

@@ -5,6 +5,7 @@ import About from './pages/About'
 import Contact from './pages/Contact'
 import Courses from './pages/Courses'
 import CoursesContent from './pages/CourseContent'
+import PackageContent from './pages/PackageContent'
 
 const Display = () => {
   return (
@@ -15,6 +16,7 @@ const Display = () => {
         <Route path="/contact" element={<Contact />} />
         <Route path="/courses" element={<Courses />} />
         <Route path="/course/:id" element={<CoursesContent />} />
+        <Route path="/package/:id" element={<PackageContent />} />
     </Routes>
   )
 }
