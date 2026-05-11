@@ -114,8 +114,8 @@ const Contact = () => {
             </div>
             <div className="space-y-3 text-sm text-[#001971]">
               <div className="flex items-center gap-3">
-                <span className="flex h-10 w-10 items-center justify-center rounded-full bg-white text-[#001971] shadow">
-                  <i className="fa-solid fa-envelope"></i>
+                <span className="flex-none flex h-10 w-10 min-h-[40px] min-w-[40px] items-center justify-center rounded-full bg-white text-[#001971] shadow">
+                  <i className="fa-solid fa-envelope text-sm"></i>
                 </span>
                 <div>
                   <p className="font-semibold">Email</p>
@@ -123,8 +123,8 @@ const Contact = () => {
                 </div>
               </div>
               <div className="flex items-center gap-3">
-                <span className="flex h-10 w-10 items-center justify-center rounded-full bg-white text-[#001971] shadow">
-                  <i className="fa-solid fa-phone"></i>
+                <span className="flex-none flex h-10 w-10 min-h-[40px] min-w-[40px] items-center justify-center rounded-full bg-white text-[#001971] shadow">
+                  <i className="fa-solid fa-phone text-sm"></i>
                 </span>
                 <div>
                   <p className="font-semibold">Phone</p>
@@ -132,15 +132,18 @@ const Contact = () => {
                 </div>
               </div>
               <div className="flex items-center gap-3">
-                <span className="flex h-10 w-10 items-center justify-center rounded-full bg-white text-[#001971] shadow">
-                  <i className="fa-solid fa-location-dot"></i>
+                <span className="flex-none flex h-10 w-10 min-h-[40px] min-w-[40px] items-center justify-center rounded-full bg-white text-[#001971] shadow">
+                  <i className="fa-solid fa-location-dot text-sm"></i>
                 </span>
                 <div>
                   <p className="font-semibold">Location</p>
-                  <p className="text-[#001971]/70">Osogbo, Nigeria (online & on-campus)</p>
+                  <p className="text-[#001971]/70">Plot 23, beside NIPCO filling station,  opposite sasa junction, Oke Baale Osogbo Osun State, Nigeria.</p>
                 </div>
               </div>
             </div>
+
+            <p className="text-[#001971]/70 mt-4 font-bold">Online & On-Campus</p>
+
             <div className="rounded-xl bg-white p-4 text-sm text-[#001971]/80 ring-1 ring-[#001971]/10">
               Want to book a call? Mention your availability in the message and we’ll schedule a slot.
             </div>
