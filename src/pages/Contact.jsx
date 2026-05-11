@@ -26,7 +26,7 @@ const Contact = () => {
           <div className="flex flex-wrap gap-3 pt-2 text-sm">
             <span className="inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-2 text-white">
               <i className="fa-solid fa-envelope"></i>
-              hello@softcodemath.com
+              softcodemath@gmail.com
             </span>
             <span className="inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-2 text-white">
               <i className="fa-solid fa-phone"></i>
@@ -119,7 +119,7 @@ const Contact = () => {
                 </span>
                 <div>
                   <p className="font-semibold">Email</p>
-                  <p className="text-[#001971]/70">hello@softcodemath.com</p>
+                  <p className="text-[#001971]/70">softcodemath@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-center gap-3">
